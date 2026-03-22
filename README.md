@@ -100,7 +100,9 @@ MEASUREMENT OF BENDING LOSSES:
 
 
 
-**Result:**  
+
+**Result:** 
+
 Attenuation and bending loss characteristics verified.
 
 ---

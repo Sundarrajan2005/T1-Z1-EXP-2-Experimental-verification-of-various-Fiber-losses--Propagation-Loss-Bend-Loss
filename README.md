@@ -1,7 +1,11 @@
 # EXPERIMENT-2-OPTICAL-COMMUNICATION
+
+## NAME: SUNDARRAJAN K
+## REG NO: 212223060279
 ## 🔍 EX.NO: 2 – Verification of Fiber Losses
 
-**Aim:**  
+**Aim:** 
+
 To measure propagation and bending losses for two wavelengths in plastic fiber.
 
 **Equipments Required:**  
@@ -20,6 +24,7 @@ Whenever the condition for angel of incidence of the incident lights is violated
  
 
 **Procedure:**  
+
 	Connect the power supply with proper polarity to the kit link-B and switch it on.
 	Keep all Switch Faults in OFF position.
 	Keep switch SW8 towards TX position.
@@ -50,7 +55,8 @@ Whenever the condition for angel of incidence of the incident lights is violated
 
 	If a is the attenuation of the Fiber then we have. P1/P2 = V1/V2 = e [ -a (L1+L2 ) ]
 
-Where
+Where,
+
 a = nepers/ Meter
 L1 = Fiber Length for V1 L2 = Fiber Length for V2 This a is for peak wavelength of 660nm
 	Keep switch SW9 towards TX2 position.
@@ -64,12 +70,15 @@ L1 = Fiber Length for V1 L2 = Fiber Length for V2 This a is for peak wavelength 
 	Measure the peak value of the received signal at ANALOG OUT terminal. Let this value be V1.
 	Now replace 1 meter Fiber by 3 Meter Fiber. Do not disturb any settings. Again take the peak voltage reading and let it be V2.
 	If a is the attenuation of the Fiber then we have. P1/P2 = V1/V2 = e [ -a (L1+L2 ) ]
-Where
+
+Where,
+
 a = nepers/ Meter
 L1 = Fiber Length for V1 ; L2 = Fiber Length for V2 This a is for peak wavelength of 950nm
 	Compare the two a values.
  
 MEASUREMENT OF BENDING LOSSES:
+
 	Remove fiber cable from SFH450V (950nm) & SFH350V and insert one meter fiber between SFH756V (660nm) & SFH350V.
 	Bend the Fiber in a loop. Measure the amplitude of the received signal.
 	Keep reducing the diameter of bend to about 2 cm & take corresponding out voltage readings. (Do not reduce loop diameter less than 1 cm).
@@ -79,17 +88,17 @@ MEASUREMENT OF BENDING LOSSES:
 
 **Tabulation:**
 
-### Propagation Loss
+### Propagation Loss:
+<img width="1480" height="2317" alt="image" src="https://github.com/user-attachments/assets/4af7846d-13d6-46cb-a207-8db7a535b2bc" />
 
-| Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
-|--------------|---------------------|------------------------|
-|              |                     |                        |
 
-### Bending Loss
 
-| Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|---------------------|------------------------|
-|                  |                     |                        |
+### Bending Loss:
+
+<img width="1428" height="2406" alt="image" src="https://github.com/user-attachments/assets/f537ba12-bf87-4e29-b8f4-cd3a6b4d7d7e" />
+
+
+
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
